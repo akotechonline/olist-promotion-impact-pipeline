@@ -182,6 +182,8 @@ jupyter notebook promotion_impact_pipeline.ipynb
 
 Built as the midterm project for **IS 455 – Database Design & Prototyping** (Spring 2026). The brief asked for a reproducible DuckDB + Python pipeline on real-world data, with separate raw and curated layers, `CREATE OR REPLACE TABLE AS` rebuilds, a documented design trade-off, and a join-safe fact table that keeps its event grain.
 
+The follow-up final project, [promo-attribution-incremental-etl](https://github.com/akotechonline/promo-attribution-incremental-etl), extends this work to data that changes over time, with incremental rebuilds and run monitoring.
+
 For this portfolio version I corrected a few notebook explanations so they match the code exactly, and added the follow-up analysis (sections A–C at the end of the notebook: naive-join inflation, revenue per day, and the campaign-by-campaign comparison). The pipeline code in `build.py` is unchanged from the submission.
 
 ## Data and license
