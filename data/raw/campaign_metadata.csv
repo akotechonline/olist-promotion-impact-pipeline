@@ -1,0 +1,13 @@
+campaign_id,campaign_name,channel,window_start,window_end,discount_pct,coupon_code
+C001,Black Friday 2017,email,2017-11-24,2017-11-26,15.0,BF2017
+C001,Black Friday 2017,social,2017-11-24,2017-11-26,15.0,BF2017
+C002,Cyber Monday 2017,email,2017-11-27,2017-11-28,10.0,CM2017
+C002,Cyber Monday 2017,display,2017-11-27,2017-11-28,10.0,CM2017
+C003,Christmas 2017,email,2017-12-15,2017-12-25,20.0,XMAS17
+C003,Christmas 2017,social,2017-12-15,2017-12-25,20.0,XMAS17
+C003,Christmas 2017,display,2017-12-15,2017-12-25,20.0,XMAS17
+C004,New Year 2018,email,2017-12-28,2018-01-05,5.0,NY2018
+C005,Carnival 2018,social,2018-02-09,2018-02-14,12.0,CARN18
+C006,Black Friday 2018,email,2018-11-23,2018-11-25,18.0,BF2018
+C006,Black Friday 2018,social,2018-11-23,2018-11-25,18.0,BF2018
+C006,Black Friday 2018,display,2018-11-23,2018-11-25,18.0,BF2018

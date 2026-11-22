@@ -1,0 +1,17 @@
+# Olist source files: download from Kaggle (see data/README.md)
+data/raw/olist_*.csv
+data/raw/product_category_name_translation.csv
+
+# Built database
+*.duckdb
+*.duckdb.wal
+
+# Python and Jupyter
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
